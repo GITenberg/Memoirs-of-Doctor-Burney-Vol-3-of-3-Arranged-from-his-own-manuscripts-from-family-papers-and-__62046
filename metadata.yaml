@@ -1,5 +1,8 @@
 _repo: Memoirs-of-Doctor-Burney-Vol-3-of-3-Arranged-from-his-own-manuscripts-from-family-papers-and-__62046
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62046-h/images/cover.jpg
 creator:
   author:
     agent_name: Burney, Fanny
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2010
     wikipedia: https://en.wikipedia.org/wiki/Frances_Burney
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62046#Memoirs-of-Doctor-Burney-Vol-3-of-3-Arranged-from-his-own-manuscripts-from-family-papers-and-_
 gutenberg_issued: '2020-05-07'
 gutenberg_type: Text
 identifiers:
