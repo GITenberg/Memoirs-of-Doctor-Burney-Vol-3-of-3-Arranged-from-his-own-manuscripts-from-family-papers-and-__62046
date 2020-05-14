@@ -1,0 +1,29 @@
+_repo: Memoirs-of-Doctor-Burney-Vol-3-of-3-Arranged-from-his-own-manuscripts-from-family-papers-and-__62046
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burney, Fanny
+    aliases:
+    - D'Arblay, Frances Burney
+    - Burney, Frances
+    birthdate: 1752
+    deathdate: 1840
+    gutenberg_agent_id: '2010'
+    url: http://www.gutenberg.org/2009/agents/2010
+    wikipedia: https://en.wikipedia.org/wiki/Frances_Burney
+description: ''
+gutenberg_issued: '2020-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62046'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Burney, Charles, 1726-1814'
+- !lcc 'ML'
+- GITenberg
+title: "Memoirs of Doctor Burney (Vol. 3 of 3)\r\nArranged from his own manuscripts,\
+  \ from family papers, and from personal recollections by his daughter, Madame d'Arblay"
+url: http://www.gutenberg.org/ebooks/62046
